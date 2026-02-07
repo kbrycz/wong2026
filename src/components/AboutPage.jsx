@@ -57,7 +57,7 @@ function AboutPage() {
               >
                 <img
                   src={aboutIntroImage}
-                  alt="Kyle Stevens speaking to supporters"
+                  alt="Sally Wong speaking to supporters"
                   className="w-full max-w-2xl h-auto block"
                 />
               </div>

@@ -1,6 +1,6 @@
 {
-  "name": "Kyle Stevens Campaign",
-  "short_name": "Stevens Campaign",
+  "name": "Sally Wong Campaign",
+  "short_name": "Wong Campaign",
   "icons": [
     {
       "src": "/src/assets/favicon/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#e74c3c",
+  "theme_color": "#982598",
   "background_color": "#F4ECDF",
   "display": "standalone"
 }

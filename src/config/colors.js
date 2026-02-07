@@ -7,49 +7,52 @@
  */
 
 export const colors = {
-  // Primary colors - forest green (#628141)
+  // Primary colors - purple (#982598)
+  // Used for buttons, CTAs, links, and interactive elements
   primary: {
-    50: '#f4f7f0',
-    100: '#e6edde',
-    200: '#cddcbe',
-    300: '#adc494',
-    400: '#8BAE66', // lighter green
-    500: '#628141', // main green
-    600: '#4d6834',
-    700: '#3d512a',
-    800: '#334225',
-    900: '#2c3821',
-    950: '#151d0f',
+    50: '#fdf5fb',
+    100: '#fbe8f6',
+    200: '#f7d0ed',
+    300: '#E491C9', // lighter pink accent
+    400: '#d05fb0',
+    500: '#982598', // main purple
+    600: '#7c1d7c',
+    700: '#651867',
+    800: '#541455',
+    900: '#461147',
+    950: '#2b072b',
   },
   
-  // Accent colors - dark green (#1B211A)
+  // Accent colors - deep navy (#15173D)
+  // Used for dark backgrounds, headers, and footers
   accent: {
-    50: '#f3f4f2',
-    100: '#e3e6e2',
-    200: '#c7cdc5',
-    300: '#a2ac9f',
-    400: '#7d8978',
-    500: '#5e6a5c',
-    600: '#4a5449',
-    700: '#3c443b',
-    800: '#2e352d',
-    900: '#1B211A', // dark green base
-    950: '#0f1310',
+    50: '#f2f2f8',
+    100: '#e2e3ef',
+    200: '#c5c6de',
+    300: '#9b9dc5',
+    400: '#7173a8',
+    500: '#535590',
+    600: '#424478',
+    700: '#353763',
+    800: '#2a2c50',
+    900: '#15173D', // deep navy base
+    950: '#0c0d24',
   },
   
-  // Gold/warm accent (#EBD5AB)
+  // Soft rose accent (#F1E9E9 / #E491C9)
+  // Used for decorative accents and subtle highlights
   gold: {
-    50: '#fdfaf3',
-    100: '#faf3e2',
-    200: '#f5e6c5',
-    300: '#EBD5AB', // warm gold
-    400: '#dfc08a',
-    500: '#d1a966',
-    600: '#bc8f4a',
-    700: '#9d733b',
-    800: '#805d34',
-    900: '#694d2e',
-    950: '#3a2817',
+    50: '#fdf8f8',
+    100: '#F1E9E9', // soft rose
+    200: '#e5d5d5',
+    300: '#E491C9', // pink accent
+    400: '#c09595',
+    500: '#a87575',
+    600: '#8e5c5c',
+    700: '#764c4c',
+    800: '#634141',
+    900: '#543939',
+    950: '#2d1c1c',
   },
   
   // Neutral colors
