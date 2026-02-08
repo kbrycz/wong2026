@@ -109,7 +109,7 @@ function HeroSection() {
           src={heroImage}
           alt=""
           className="absolute inset-0 w-full h-full object-cover"
-          style={{ objectPosition: 'center top' }}
+          style={{ objectPosition: '80% top' }}
         />
 
         {/* Overlay */}
